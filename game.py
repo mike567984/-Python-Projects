@@ -22,8 +22,8 @@ def startgame():
 		print "you are still in 12th place , but are cathing up"
 		race3()
 	else :
-		print"you can't even choose a corret option"
-		print"you suck"
+		print"Try again next time with one,two or three"
+		print"make sure note to type 1,2 or 3"
 		lostgame()
 		
 		
