@@ -1,4 +1,4 @@
-print "Chose username"
+print "Choose username"
 username = raw_input("  >")
 print "Hi %r" %username
 def startgame():
